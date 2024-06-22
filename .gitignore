@@ -1,0 +1,12 @@
+#root
+.cph
+.vscode
+*.exe
+*.o
+
+#sub
+*/*.exe
+*/*.o
+*.out
+*/*.out
+*/.cph
