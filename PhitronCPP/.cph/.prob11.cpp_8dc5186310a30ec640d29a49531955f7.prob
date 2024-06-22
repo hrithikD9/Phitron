@@ -1,1 +1,0 @@
-{"name":"Local: prob11","url":"c:\\Users\\FC\\Desktop\\PhitronCPP\\prob11.cpp","tests":[{"id":1718304367449,"input":"6 3\n6 4 2 7 2 7\n1 3\n3 6\n1 6\n","output":"12\n18\n28\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronCPP\\prob11.cpp","group":"local","local":true}

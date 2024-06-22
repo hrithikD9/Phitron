@@ -1,1 +1,0 @@
-{"name":"Local: cf30","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf30.c","tests":[{"id":1714145180646,"input":"2\n6\n1 2 3 4 5 6\n3\n5\n10 20 30 40 50\n70","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf30.c","group":"local","local":true}

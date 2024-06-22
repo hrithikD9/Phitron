@@ -1,1 +1,0 @@
-{"name":"Local: cf44","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf44.c","tests":[{"id":1715321977069,"input":"5\n8 8 9 5 9\n","output":"Lucky\n"},{"id":1715321988769,"input":"5\n3 3 3 5 3","output":"Unlucky"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf44.c","group":"local","local":true}
