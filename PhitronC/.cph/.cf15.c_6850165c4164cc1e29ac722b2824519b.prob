@@ -1,0 +1,1 @@
+{"name":"Local: cf15","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf15.c","tests":[{"id":1713377825682,"input":"5\n1 2 100 0 30","output":"A[0] = 1\nA[1] = 2\nA[3] = 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf15.c","group":"local","local":true}

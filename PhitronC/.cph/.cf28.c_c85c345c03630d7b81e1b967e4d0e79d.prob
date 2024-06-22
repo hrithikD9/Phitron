@@ -1,0 +1,1 @@
+{"name":"Local: cf28","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf28.c","tests":[{"id":1714120400680,"input":"2\ntheFox25IsBrave\nILoveYou100TimesAndSay2Also","output":"3 10 2\n7 16 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf28.c","group":"local","local":true}

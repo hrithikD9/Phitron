@@ -1,0 +1,1 @@
+{"name":"Local: cf45","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf45.c","tests":[{"id":1715323370368,"input":"3\n5\nTPTPP\n3\nTTP\n4\nTPPT","output":"Pathaan\nTiger\nDraw"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf45.c","group":"local","local":true}

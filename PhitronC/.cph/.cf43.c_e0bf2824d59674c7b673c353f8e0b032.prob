@@ -1,0 +1,1 @@
+{"name":"Local: cf43","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf43.c","tests":[{"id":1715321553812,"input":"3 3\n1 2 3\n","output":"6"},{"id":1715321575691,"input":"2 1\n1 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf43.c","group":"local","local":true}

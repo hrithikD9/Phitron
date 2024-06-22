@@ -1,0 +1,1 @@
+{"name":"Local: cf8","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf8.c","tests":[{"id":1713250453194,"input":"3 4 5 23","output":"YES"},{"id":1713250468504,"input":"9 5 3 7","output":"YES"},{"id":1713250481632,"input":"1 2 3 1","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf8.c","group":"local","local":true}

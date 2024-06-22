@@ -1,0 +1,1 @@
+{"name":"Local: cf26","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf26.c","tests":[{"id":1714112893172,"input":"thefoxisgone","output":"7"},{"id":1714112908898,"input":"sjxapw","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf26.c","group":"local","local":true}

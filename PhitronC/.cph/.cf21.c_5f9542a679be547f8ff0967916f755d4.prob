@@ -1,0 +1,1 @@
+{"name":"Local: cf21","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf21.c","tests":[{"id":1714030199122,"input":"happy,NewYear,enjoy","output":"HAPPY nEWyEAR ENJOY"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf21.c","group":"local","local":true}

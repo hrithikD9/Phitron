@@ -1,0 +1,1 @@
+{"name":"Local: cf49","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf49.c","tests":[{"id":1715445016227,"input":"1","output":"*\n    ***\n   *****\n  *******\n *********\n***********\n     *\n     *\n     *\n     *\n     *"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf49.c","group":"local","local":true}

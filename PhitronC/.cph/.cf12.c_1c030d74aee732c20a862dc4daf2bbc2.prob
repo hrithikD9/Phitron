@@ -1,0 +1,1 @@
+{"name":"Local: cf12","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf12.c","tests":[{"id":1713375933098,"input":"4\n7 2 1 3\n","output":"13\n"},{"id":1713375940712,"input":"3\n-1 2 -3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf12.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: cf20","url":"c:\\Users\\FC\\Desktop\\PhitronC\\cf20.c","tests":[{"id":1714029373450,"input":"4\nword\nlocalization\ninternationalization\npneumonoultramicroscopicsilicovolcanoconiosis","output":"word\nl10n\ni18n\np43s"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\FC\\Desktop\\PhitronC\\cf20.c","group":"local","local":true}
